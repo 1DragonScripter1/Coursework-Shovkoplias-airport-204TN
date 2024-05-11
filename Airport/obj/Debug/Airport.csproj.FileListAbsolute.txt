@@ -1,0 +1,70 @@
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\MainWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\App.g.cs
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport_MarkupCompile.cache
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport_MarkupCompile.lref
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Airport.exe.config
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Airport.exe
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Airport.pdb
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\MainWindow.baml
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.g.resources
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.exe
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.pdb
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Visual Studio\VS projects\Airport\obj\Debug\Airport.csproj.CopyComplete
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Airport.exe.config
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Airport.exe
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Airport.pdb
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\MainWindow.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\App.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport_MarkupCompile.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport_MarkupCompile.lref
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\MainWindow.baml
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.g.resources
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.csproj.CoreCompileInputs.cache
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.csproj.Up2Date
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.exe
+D:\University\2 курс\4 семестр\ООП\Курсова робота\не мої\Шовкопляс\Airport Done Shovkoplias\Airport\obj\Debug\Airport.pdb
